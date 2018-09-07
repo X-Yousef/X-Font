@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'XFont';
+  src: url('https://rawgit.com/X-Yousef/X-Font/master/XFont.eot');
+  src: url('https://rawgit.com/X-Yousef/X-Font/master/XFont.woff2') format('woff2'),
+       url('https://rawgit.com/X-Yousef/X-Font/master/XFont.woff') format('woff'),
+       url('https://rawgit.com/X-Yousef/X-Font/master/XFont.ttf') format('truetype'),
+       url('https://rawgit.com/X-Yousef/X-Font/master/XFont.svg#XFont') format('svg'),
+       url('https://rawgit.com/X-Yousef/X-Font/master/XFont.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
