@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'XFont';
+  src: url('XFont.eot');
+  src: url('XFont.woff2') format('woff2'),
+       url('XFont.woff') format('woff'),
+       url('XFont.ttf') format('truetype'),
+       url('XFont.svg#XFont') format('svg'),
+       url('XFont.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
